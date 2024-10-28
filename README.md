@@ -51,7 +51,8 @@ This project demonstrates the application of time series forecasting for public 
 - `Task.ipynb`: The Jupyter notebook with the entire analysis and forecasting implementation.
 - `Dataset.csv`: The CSV file containing the forecasted results.
 - `Public_Transport_Passenger_Analysis.pdf`: Basic Insights and Idea from Dataset
-- `requirements.txt`: Python libraries used 
+- `requirements.txt`: Python libraries used
+- `.Algorithm_Report.pdf`: Details of algorithm  used 
 
 
 # Local Route Passenger Journey Forecast
